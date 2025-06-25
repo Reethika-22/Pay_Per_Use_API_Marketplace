@@ -31,6 +31,12 @@ Helps developers and organizations:
 - Build decentralized platforms for API sharing
 
 ---
+🛠️ Project Setup
+Prerequisites
+Python 3.10+
+AlgoKit
+Poetry
+Docker (for localnet)
 
 ## 📸 Screenshots
 
@@ -38,7 +44,30 @@ Helps developers and organizations:
 
 ---
 
-## 🛠️ Setup Instructions
 
-```b
+## 🛠️ Setup Instructions
+# Clone the repo
+git clone 
+
+
+---
+
+## 🙋‍♀️ Author
+
+👩‍💻 **Akhila Gangisetty**  
+Lead, Algorand Blockchain Club  
+📫 [LinkedIn](www.linkedin.com/in/reethika-arasavilli2216 )| [Email](mailto:reethika.22.arasavilli@gmail.com)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+# Start local blockchain network
+algokit localnet start
+
+# Deploy smart contracts
+algokit project deploy
 
