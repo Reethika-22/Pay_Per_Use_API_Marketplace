@@ -88,6 +88,7 @@ If you have opted in to include VSCode launch configurations in your project, yo
 
 For information on using and setting up the `AlgoKit AVM Debugger` VSCode extension refer [here](https://github.com/algorandfoundation/algokit-avm-vscode-debugger). To install the extension from the VSCode Marketplace, use the following link: [AlgoKit AVM Debugger extension](https://marketplace.visualstudio.com/items?itemName=algorandfoundation.algokit-avm-vscode-debugger).
 
+
 # Tools
 
 This project makes use of Algorand Python to build Algorand smart contracts. The following tools are in use:
