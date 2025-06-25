@@ -38,23 +38,16 @@ AlgoKit
 Poetry
 Docker (for localnet)
 
-## 📸 Screenshots
-
-> *(Add screenshots here if you have any UI)*
-
----
-
-
 ## 🛠️ Setup Instructions
 # Clone the repo
 git clone 
-
+https://github.com/Reethika-22/Pay_Per_Use_API_Marketplace
 
 ---
 
 ## 🙋‍♀️ Author
 
-👩‍💻 **Akhila Gangisetty**  
+👩‍💻 **Ratna Reethika Arasavilli**  
 Lead, Algorand Blockchain Club  
 📫 [LinkedIn](www.linkedin.com/in/reethika-arasavilli2216 )| [Email](mailto:reethika.22.arasavilli@gmail.com)
 
