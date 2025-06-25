@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 1.6.1
+_src_path: gh:algorandfoundation/algokit-python-template
+author_email: reethika.22.arasavilli@gmail.com
+author_name: reethika
+contract_name: pay_per_call_contracts
+deployment_language: python
+preset_name: starter
+project_name: Pay_Per_Use_API_Marketplace
+
