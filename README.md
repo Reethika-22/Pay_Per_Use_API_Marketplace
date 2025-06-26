@@ -19,7 +19,7 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js (or any backend you used)
 - **Blockchain**: Solidity, Ethereum (or mention your platform)
-- **Smart Contracts**: Deployed via Remix or Hardhat
+- **Smart Contracts**: pyteal
 
 ---
 
