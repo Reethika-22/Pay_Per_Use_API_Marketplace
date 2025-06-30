@@ -18,7 +18,7 @@
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js (or any backend you used)
-- **Blockchain**: Solidity, Ethereum (or mention your platform)
+- **Blockchain**: Solidity
 - **Smart Contracts**: pyteal
 
 ---
@@ -49,7 +49,8 @@ https://github.com/Reethika-22/Pay_Per_Use_API_Marketplace
 
 👩‍💻 **Ratna Reethika Arasavilli**  
 Lead, Algorand Blockchain Club  
-📫 [LinkedIn](www.linkedin.com/in/reethika-arasavilli2216 )| [Email](mailto:reethika.22.arasavilli@gmail.com)
+📫 [LinkedIn](www.linkedin.com/in/reethika-arasavilli2216 ) 
+[Email](mailto:reethika.22.arasavilli@gmail.com)
 
 ---
 
