@@ -51,6 +51,7 @@ https://github.com/Reethika-22/Pay_Per_Use_API_Marketplace
 Lead, Algorand Blockchain Club  
 📫 [LinkedIn](www.linkedin.com/in/reethika-arasavilli2216 ) 
 [Email](mailto:reethika.22.arasavilli@gmail.com)
+[X](https://x.com/Reethika22)
 
 ---
 
