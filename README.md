@@ -5,7 +5,8 @@
 Problem:
 APIs today force users into monthly subscriptions — even if you only need a few calls.
 No fair “pay-per-use” model using crypto micro-payments.
-
+Solution:
+Marketplace where developers list APIs → users pay ALGO per call → call triggers payment → API result returned → no subscription needed.
 ---
 
 ## 🔗 Features
