@@ -2,12 +2,12 @@
 
 🚀 A **Web3-based Blockchain** application that enables a secure and transparent **Pay-Per-Use API Marketplace**. It uses **smart contracts** to allow developers to publish APIs and consumers to access them on a usage-based model.
 
-Problem:
+## Problem:
 APIs today force users into monthly subscriptions — even if you only need a few calls.
 No fair “pay-per-use” model using crypto micro-payments.
-Solution:
+
+## Solution:
 Marketplace where developers list APIs → users pay ALGO per call → call triggers payment → API result returned → no subscription needed.
----
 
 ## 🔗 Features
 
