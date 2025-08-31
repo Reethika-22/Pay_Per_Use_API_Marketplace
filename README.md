@@ -21,9 +21,9 @@ Marketplace where developers list APIs → users pay ALGO per call → call trig
 
 ## 🧱 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js (or any backend you used)
-- **Blockchain**: Solidity
+- **Frontend**: (HTML, CSS, JavaScript)React
+- **Backend**: Node.js
+- **Blockchain**: 
 - **Smart Contracts**: pyteal
 
 ---
