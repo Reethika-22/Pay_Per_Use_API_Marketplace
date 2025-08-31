@@ -1,6 +1,7 @@
 # Pay Per Use API Marketplace
 
 🚀 A **Web3-based Blockchain** application that enables a secure and transparent **Pay-Per-Use API Marketplace**. It uses **smart contracts** to allow developers to publish APIs and consumers to access them on a usage-based model.
+Like we use the montly subcriptions. Even though we are not using them daily in a month still we are paying for months or years. We thought that to charge the subscription for the usage limit. 
 
 ## Problem:
 APIs today force users into monthly subscriptions — even if you only need a few calls.
