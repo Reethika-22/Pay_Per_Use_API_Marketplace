@@ -79,5 +79,6 @@ This project is licensed under the [MIT License](LICENSE).
 algokit localnet start
 
 # Deploy smart contracts
+
 algokit project deploy
 
