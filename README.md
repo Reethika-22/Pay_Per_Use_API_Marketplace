@@ -51,6 +51,7 @@ Poetry
 Docker (for localnet)
 
 ## 🛠️ Setup Instructions
+
 # Clone the repo
 
 git clone 
