@@ -8,6 +8,7 @@ No wastage of the subscription.
 The unnecessary charges will deduced.
 
 ## Problem:
+
 APIs today force users into monthly subscriptions — even if you only need a few calls.
 No fair “pay-per-use” model using crypto micro-payments.
 
