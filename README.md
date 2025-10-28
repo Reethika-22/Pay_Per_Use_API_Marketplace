@@ -4,7 +4,9 @@
 Like we use the montly subcriptions. Even though we are not using them daily in a month still we are paying for months or years. We thought that to charge the subscription for the usage limit. 
 
 The  cost will be reduced.
+
 No wastage of the subscription.
+
 The unnecessary charges will deduced.
 
 ## Problem:
