@@ -76,11 +76,5 @@ Lead, Algorand Blockchain Club
 This project is licensed under the [MIT License](LICENSE).
 
 
-# Start local blockchain network
 
-algokit localnet start
-
-# Deploy smart contracts
-
-algokit project deploy
 
